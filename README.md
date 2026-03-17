@@ -1,4 +1,4 @@
-# 💫 About Me:
+ About Me:
 web development (full stack development)<br>Java<br>Video editing(PREMIUM PRO)<br>
 
 
